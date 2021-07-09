@@ -1,0 +1,1503 @@
+@media only screen and (max-width: 320px)
+{
+    .header{
+        float: left;
+        height: 300px;
+    }
+    .nav{
+        /* float: left;
+        word-spacing: 16px;
+        font-size: 5px;
+        margin-left: -107px;
+        line-height: 31px; */
+        float: left;
+        word-spacing: 16px;
+        font-size: -16%;
+        margin-left: -95px;
+        line-height: 31px;
+        font-size: 0px;
+    }
+    .header a{
+        font-size: 9px;
+    }
+    .bake{
+        /* float: left;
+        position: relative;
+        margin-top: 69px;
+        left: 195px; */
+        float: left;
+    position: relative;
+    margin-top: 40px;
+    left: 184px;
+    }
+    .avatar{
+        text-align: center;
+        margin-top: 4%;
+        width: 100%;
+        margin-left: 0px;
+    }
+    .avatar-img{
+    flex-direction: column;
+    }
+    .banner p{
+        font-size: 22px;
+        top: 114px;
+        margin-left: 99px;
+        z-index: 1;
+    }
+    .banner label{
+    font-size: 22px;
+    top: 172px;
+    margin-left: 10px;
+    z-index: 1;
+    }
+    .banner img{
+        height: 143px;
+        top: -40px;
+        width: 167px;
+        position: relative;
+    }
+    .delicious h3{
+        font-size: 16px;
+    }
+    .delicious P{
+        font-size: 9px;
+        margin-top: -9px;
+        margin-left: 37px;
+    }
+    .avatar-img .ava-img {
+        margin-right: 24px;
+        width: 35%;
+    height: 114px;
+    }
+    .con-one h5 {
+        margin-right: 0px;
+    }
+    .con-two h5 {
+        margin-right: 0px;
+    }
+    .con-three h5 {
+        margin-right: 0px;
+    }
+    .con-three img{
+        width: 35%;
+        height: 114px;
+    }
+    .con-three .three{
+        float: left;
+        padding-left: 81px; 
+    }
+    .simple-delicious{
+        float: left;
+        height: 390px;
+    }
+    .simple-left {
+        float: left;
+        width: 100%;
+    }
+    .simple-left h3{
+        float: left;
+        font-size: 20px;
+    }
+    .simple-left img{
+        float: left;
+        width: 62%;
+    }
+    .simple-left p {
+        float: left;
+        margin-top: -128px;
+        font-size: 12px;
+        padding-left: 37px;
+    }
+    .simple-left button {
+        float: left;
+        margin-top: -53px;
+        width: 61px;
+        height: 19px;
+        font-size: 8px;
+        position: relative;
+    margin-left: 166px;
+    }
+    .simple-right {
+        float: left;
+        margin-top: 15px;
+        padding: 15px;
+    }
+    .simple-right h4{
+        float: left;
+        font-size: 10px;
+    }
+    .test{
+        margin-left: 81px;
+        font-size: 9px;
+    }
+    .testone{
+        margin-left: 54px;  
+        font-size: 9px;
+    }
+    .testtwo {
+        margin-left: 119px;
+        font-size: 9px;
+    }
+    progress{
+        float: left;
+        width: 242px;
+    }
+    .taste{
+        float: left;
+    } 
+    .taste h4{
+        font-size: 19px;
+    text-align: center;
+    }
+    .avatar-one{
+        margin-top: -14%;
+    }
+    .avatar-img-one{
+        flex-direction: column;
+    }
+    .cont-one .ava-img{
+        width: 164px;
+    }
+    .cont-one h5 {
+        top: -54px;
+    }
+    .cont-two{
+        margin-top: -73px;
+    }
+    .cont-two .ava-img{
+        width: 164px;
+    }
+    .cont-two h5 {
+        top: -33px;
+    }
+    .cont-three{
+        margin-top: -62px;
+    }
+    .cont-three p{
+        padding-left: 29px;
+    }
+    .cont-three img{
+        width: 173px;
+    }
+    .cont-three p{
+
+    }
+    .cont-three h5 {
+        top: -33px;
+        padding-left: 32px;
+    }
+
+    .avatar-img-two{
+        flex-direction: column;
+    }
+    .content-one .ava-img{
+        width: 164px;
+    }
+    .content-one h5 {
+        top: -17px;
+    }
+    .content-two .ava-img{
+        width: 149px;
+    }
+    .content-two h5 {
+        top: -29px;
+    }
+    .content-three img{
+        width: 137px;
+        height: 114px;
+    }
+    .content-three p{
+        padding-left: 38px;
+    }
+    .content-three h5 {
+        top: -20px;
+    margin-left: 47px;
+    }
+    .taste p{
+        font-size: 14px;
+    margin-top: -13px;
+    margin-left: 9px;
+    }
+    .use{
+        float: left;
+        margin-left: 79px;
+    }
+    .footer{
+        height: 100%;
+    }
+    .footer-left h4{
+        padding-left: 102px;
+    padding-top: 20px;
+    }
+    .footer-left P{
+        font-size: 12px;
+    padding-left: 54px;
+    margin-top: -64px;
+    }
+    .footer-left h3{
+        padding-left: 38px;
+    }
+    .footer-left img{
+
+    }
+    .test-test .imgone{
+        width: 12%;
+    }
+    .test-test .imgtwo{
+        width: 13%;
+        margin-left: 6px;
+    }
+    .test-test .imgthree{
+        width: 13%;
+        margin-left: 6px;
+    }
+    .test-test .imgfour{
+        width: 13%;
+        margin-left: 6px;
+    }
+    .footer-center{
+        margin-top: 60%;
+    margin-left: -44px;
+    }
+    .footer-center h4{
+        font-size: 10px;
+        margin-left: -56px;
+    }
+
+    .footer-center .test-one{
+       /* float: left;
+        width: 66%;
+        margin-left: -75px;
+        margin-top: -23px;  */
+        float: left;
+        width: 66%;
+        margin-left: -136px;
+        margin-top: -23px;
+    }
+    .footer-center .test-two{
+        width: 69%;
+        margin-left: -138px;
+        margin-top: 47px;
+        position: inherit;
+    }
+    .footer-center .test-three{
+        float: left;
+        font-size: 10px;
+        margin-top: 27px;
+        margin-right: -219px;
+        margin-left: -109px;
+
+    }
+    .footer-center .test-four{
+    float: left;
+        font-size: 10px;
+        margin-top: 120px;
+        margin-right: -219px;
+        margin-left: -109px;
+    }
+    
+    .footer-right {
+        float: left;
+        margin-top: 109%;
+        width: 100%;
+    }
+    .footer-right h4{
+        font-size: 11px;
+        margin-left: -81px;
+    }
+    form{
+        position: absolute;
+    margin-left: -126px;
+    }
+    input{
+        width: 41%;
+    }
+    .line{
+        position: relative;
+        top: 17px;
+        left: -102px;
+        width: 96%;
+    }
+    .footer-right h5{
+        float: left;
+        font-size: 11px;
+        left: -106px;
+        position: relative;
+    }
+    .mob {
+        position: relative;
+        font-size: 62%;
+        right: -15px;
+    }
+}    
+@media only screen and (min-width: 321px) and (max-width: 480px)
+{
+    .header{
+        float: left;
+        height: 312px;
+    }
+    .nav{
+    float: left;
+    word-spacing: 19px;
+    font-size: 5px;
+    margin-left: -86px;
+    line-height: 31px;
+    }
+    .bake{
+        float: left;
+        position: relative;
+        margin-top: 48px;
+        left: 207px;
+    }
+    .banner{
+        width: 100%;
+    }
+    .avatar{
+        text-align: center;
+        margin-top: 4%;
+        width: 100%;
+        margin-left: 0px;
+    }
+    .avatar-img{
+    flex-direction: column;
+    }
+    .banner p{
+        font-size: 22px;
+    top: 113px;
+    margin-left: 130px;
+    z-index: 11;
+    }
+    .banner label{
+        font-size: 22px;
+    top: 171px;
+    margin-left: 10px;
+    z-index: 1;
+    }
+    .banner img{
+        position: relative;
+        height: 143px;
+        top: -42px;
+        width: 167px;
+    }
+    .delicious h3{
+        font-size: 16px;
+    }
+    .delicious P{
+        font-size: 10px;
+    margin-top: -9px;
+    margin-left: 30px;
+    }
+    .avatar-img .ava-img {
+        margin-right: 24px;
+        width: 31%;
+        height: 117px;
+    }
+    .con-one h5 {
+        margin-right: 0px;
+    }
+    .con-two h5 {
+        margin-right: 0px;
+    }
+    .con-three h5 {
+        margin-right: 0px;
+    }
+    .con-three .three{
+        float: left;
+        padding-left: 105px;
+    }
+    .con-three img{
+        width: 31%;
+        height: 117px;  
+    }
+    .simple-delicious{
+        float: left;
+        height: 419px;
+    }
+    .simple-left {
+        float: left;
+        width: 100%;
+    }
+    .simple-left h3{
+        float: left;
+        font-size: 20px;
+        padding-left: 20px;
+    }
+    .simple-left img{
+        float: left;
+        width: 62%;
+    }
+    .simple-left p {
+        float: left;
+        margin-top: -147px;
+        font-size: 15px;
+    }
+    .simple-left button {
+        float: left;
+        margin-top: -70px;
+        width: 61px;
+        height: 19px;
+        font-size: 8px;
+    }
+    .simple-right {
+        float: left;
+        margin-top: 15px;
+        padding: 10px 0px 0px 78px;
+    }
+    .simple-right h4{
+        float: left;
+        font-size: 10px;
+    }
+    .test{
+        margin-left: 81px;
+        font-size: 9px;
+    }
+    .testone{
+        margin-left: 54px;  
+        font-size: 9px;
+    }
+    .testtwo {
+        margin-left: 119px;
+        font-size: 9px;
+    }
+    progress{
+        float: left;
+        width: 242px;
+    }
+    .taste{
+        float: left;
+    } 
+    .taste h4{
+        font-size: 19px;
+    text-align: center;
+    }
+  
+    .avatar-img-one{
+        flex-direction: column;
+    }
+    .cont-one .ava-img{
+        width: 164px;
+        margin-top:-35px;
+    }
+    .cont-one h5 {
+        top: -54px;
+    }
+    .cont-two{
+        margin-top: -70px;
+    }
+    .cont-two .ava-img{
+        width: 164px;
+    }
+    .cont-two h5 {
+        top: -33px;
+    }
+    .cont-three{
+        margin-top: -60px;
+    }
+    .cont-three .ava-img{
+        width: 164px;
+    }
+    .cont-three h5 {
+        top: -33px;
+        padding-left: 17px; 
+    }
+    .cont-three p{
+        float: left;
+        padding-left: 67px;
+    }
+    .avatar-img-two{
+        flex-direction: column;
+    }
+    .content-one .ava-img{
+        width: 164px;
+    }
+    .content-one h5 {
+        top: -17px;
+    }
+    .content-two .ava-img{
+        width: 164px;
+    }
+    .content-two h5 {
+        top: -29px;
+    }
+    .content-three img{
+        width: 44%;
+    }
+    .content-three .ava-img{
+        width: 164px;
+    }
+    .content-three h5 {
+        top: -20px;
+    margin-left: 47px;
+    }
+    .taste p{
+        font-size: 13px;
+    margin-top: -13px;
+    }
+    .content-three .use{
+        float: left;
+        margin-left: 149px;
+    }
+    .footer{
+        height: 100%;
+    }
+    .footer-left h4{
+        padding-left: 155px;
+        padding-top: 20px;
+    }
+    .footer-left P{
+        font-size: 14px;
+    padding-left: 81px;
+    margin-top: -64px;
+    }
+    .footer-left h3{
+        padding-left: 58px;
+        margin-top: -30px;
+    }
+    .test-test .imgone{
+        width: 12%;
+    }
+    .test-test .imgtwo{
+        width: 13%;
+        margin-left: 6px;
+    }
+    .test-test .imgthree{
+        width: 13%;
+        margin-left: 6px;
+    }
+    .test-test .imgfour{
+        width: 13%;
+        margin-left: 6px;
+    }
+    .footer-center{
+        margin-top: 60%;
+        margin-left: -44px;
+    text-align: left;
+    }
+    .footer-center h4{
+        font-size: 11px;
+        margin-left: -25px;
+        padding-left: 10px;
+        position: absolute;
+        margin-top: -18px;
+    }
+    .footer-center .test-one{
+        float: left;
+        width: 72%;
+        margin-left: -128px;
+        margin-top: -17px;
+    }
+    .footer-center .test-two{
+        width: 72%;
+        margin-left: -130px;
+        margin-top: 65px;
+    }
+    .footer-center .test-three{
+        float: left;
+        font-size: 10px;
+        margin-top: 33px;
+        margin-right: -189px;
+        margin-left: -94px;
+
+    }
+    .footer-center .test-four{
+        float: left;
+        top: 23px;
+        font-size: 10px;
+        margin-top: 28px;
+        margin-right: -195px;
+        margin-left: -95px;
+    }
+    .footer-right {
+        float: left;
+        margin-top: 86%;
+        width: 100%;
+    }
+    .footer-right h4{
+        font-size: 11px;
+        margin-left: -81px;
+        margin-top: 25px;
+    }
+    form{
+        position: absolute;
+    margin-left: -126px;
+    }
+    input{
+        width: 46%;
+    }
+    .line{
+        position: relative;
+        top: 17px;
+        left: -120px;
+        width: 96%;
+    }
+    .footer-right h5{
+        float: left;
+        font-size: 11px;
+        left: -106px;
+        position: relative;
+    }
+    .mob {
+        position: relative;
+        font-size: 10px;
+        right: -6px;
+    }
+}
+@media only screen and (min-width: 481px) and (max-width: 768px)
+{
+    .header{
+        float: left;
+        height: 312px;
+    }
+    .nav{
+        float: left;
+    word-spacing: 38px;
+    font-size: 10px;
+    margin-left: 53px;
+    line-height: 31px;
+    }
+    .avatar{
+        text-align: center;
+        margin-top: 4%;
+        width: 100%;
+        margin-left: 0px;
+    }
+    .banner p{
+        font-size: 22px;
+        top: 121px;
+        margin-left: 326px;
+    }
+    .banner label{
+        font-size: 22px;
+    top: 175px;
+    margin-left: 20px;
+    }
+    .banner img{
+        height: 143px;
+        top: 75px;
+        width: 167px;
+    }
+    .delicious h3{
+        font-size: 16px;
+    }
+    .delicious P{
+        font-size: 9px;
+        margin-top: -9px;
+        margin-left: 37px;
+    }
+    .avatar-img .ava-img {
+        margin-right: 24px;
+    }
+    .con-one h5 {
+        margin-right: 0px;
+    }
+    .con-two h5 {
+        margin-right: 0px;
+    }
+    .con-three h5 {
+        margin-right: 0px;
+    }
+    .three{
+        float: left;
+    }
+    .simple-delicious{
+        float: left;
+        height: 234px;
+    }
+    .simple-left {
+        float: left;
+        width: 100%;
+    }
+    .simple-left h3{
+        float: left;
+        font-size: 20px;
+        padding-left: 20px;
+    }
+    .simple-left img{
+        float: left;
+        width: 34%;
+        top: 38px;
+        position: relative;
+    }
+    .simple-left p {
+        float: left;
+        margin-top: -81px;
+        font-size: 15px;
+        position: relative;
+    }
+    .simple-left button {
+        float: left;
+        margin-top: -15px;
+        width: 61px;
+        height: 19px;
+        font-size: 8px;
+        position: relative;
+    }
+    .simple-right {
+        margin-top: -98px;
+        padding: 10px 0px 0px 56px;
+    }
+    .simple-right h4{
+        float: left;
+        font-size: 10px;
+    }
+    .test{
+        margin-left: 81px;
+        font-size: 9px;
+    }
+    .testone{
+        margin-left: 54px;  
+        font-size: 9px;
+    }
+    .testtwo {
+        margin-left: 119px;
+        font-size: 9px;
+    }
+    progress{
+        float: left;
+        width: 242px;
+    }
+    .taste{
+        float: left;
+    } 
+    .taste h4{
+        font-size: 19px;
+    text-align: center;
+    }
+    .cont-one .ava-img{
+        width: 130px;
+    }
+    .cont-one h5 {
+        top: -43px;
+    }
+    .content-one p{
+        margin-top: -19px;
+        position: relative;
+        top: -3px;
+    }
+    .cont-two .ava-img{
+        width: 130px;
+    }
+    .cont-two h5 {
+        top: -25px;
+    }
+    .cont-three img{
+        width: 173px;
+        margin-left: 12px;
+        height: 119px;
+    }
+    .cont-three p{
+        margin-right: 42px;
+        margin-top: 2px;
+        position: relative;
+        top: -38px;
+    }
+    .cont-three .ava-img{
+        width: 130px;
+    }
+    .cont-three h5 {
+        top: -33px;
+    }
+    .content-one .ava-img{
+        width: 164px;
+    }
+    .content-one h5 {
+        top: -17px;
+    }
+    .content-two .ava-img{
+        width: 130px;
+    }
+    .content-two h5 {
+        top: -18px;
+    }
+    .content-three img{
+        width: 135px;
+        height: 92px;
+    }
+    .content-three h5 {
+        top: -11px;
+    margin-left: 47px;
+    }
+    .taste use{
+        font-size: 14px;
+    margin-top: -13px;
+    }
+    .use{
+        float: left;
+        margin-left: 59px;
+    }
+    .avatar-img-one{
+        padding-left: 39px;
+    }
+    .footer{
+        height: 100%;
+    }
+    .footer-left h4{
+        padding-left: 84px;
+        padding-top: 6px;
+    }
+    .footer-left P{
+        font-size: 14px;
+    padding-left: 89px;
+    margin-top: -48px;
+    }
+    .footer-left h3{
+        position: relative;
+        top: -25px;
+        padding-left: 90px;
+    }
+    .test-test .imgone{
+        width: 9%;
+    }
+    .test-test .imgtwo{
+        width: 9%;
+        margin-left: -12px;
+    }
+    .test-test .imgthree{
+        width: 9%;
+        margin-left: -16px;
+    }
+    .test-test .imgfour{
+        width: 9%;
+        margin-left: -13px;
+    }
+    .footer-center{
+        margin-top: 7%;
+        position: relative;
+        left: 266px;
+    }
+    .footer-center h4{
+        font-size: 11px;
+        margin-left: -16px;
+        padding-left: 10px;
+        position: absolute;
+        margin-top: -18px;
+    }
+    .footer-center .test-one{
+        float: left;
+        width: 29%;
+        margin-left: -68px;
+        margin-top: -5px;
+    }
+    .footer-center .test-two{
+        width: 29%;
+        margin-left: -189px;
+        margin-top: 73px;
+    }
+    .footer-center .test-three{
+        float: left;
+    font-size: 9px;
+    margin-top: 50px;
+    margin-left: -31px;
+    margin-right: -81px;
+    }
+    .footer-center .test-four{
+        float: left;
+        top: -63px;
+        font-size: 9px;
+        margin-top: 28px;
+        margin-right: -83px;
+        margin-left: -35px;
+    }
+    .footer-right {
+        float: left;
+        margin-top: 23%;
+        width: 100%;
+    }
+    .footer-right h4{
+        font-size: 11px;
+        margin-left: -26px;
+    }
+    form{
+        position: absolute;
+    margin-left: -62px;
+    }
+    input{
+        width: 46%;
+    }
+    .line{
+        position: relative;
+        top: 20px;
+        left: -86px;
+        width: 53%;
+    }
+    .footer-right h5{
+        float: left;
+    font-size: 11px;
+    left: -258px;
+    position: relative;
+    margin-top: 41px;
+    }
+    .mob {
+        position: relative;
+        font-size: 10px;
+        right: -6px;
+    }
+    .avatar-img-two{
+        padding-left: 21px;
+    }
+}
+@media only screen and (min-width: 769px) and (max-width: 1024px)
+{
+    .header{
+        float: left;
+        height: 312px;
+    }
+    .nav{
+        float: left;
+        word-spacing: 52px;
+        font-size: 10px;
+        margin-left: 132px;
+        line-height: 31px;  
+    }
+    .avatar{
+        text-align: center;
+        margin-top: 4%;
+        width: 100%;
+        margin-left: 0px;
+    }
+    .banner p{
+        font-size: 24px;
+        top: 130px;
+        margin-left: 404px;
+    }
+    .banner label{
+        font-size: 25px;
+        top: 184px;
+        margin-left: 33px;
+    }
+    .banner img{
+        margin-right: 43px;
+        height: 173px;
+        top: 75px;
+        width: 229px;
+    }
+    .delicious h3{
+        font-size: 16px;
+    }
+    .delicious P{
+        font-size: 9px;
+        margin-top: -9px;
+        margin-left: 37px;
+    }
+    .avatar-img .ava-img {
+        margin-right: 24px;
+    }
+    .con-one h5 {
+        margin-right: 0px;
+    }
+    .con-two h5 {
+        margin-right: 0px;
+    }
+    .con-three h5 {
+        margin-right: 0px;
+    }
+    .three{
+        float: left;
+    }
+    .simple-delicious{
+        float: left;
+        height: 266px;
+    }
+    .simple-left {
+        float: left;
+        width: 100%;
+    }
+    .simple-left h3{
+        float: left;
+        font-size: 20px;
+        padding-left: 20px;
+        position: relative;
+        margin-right: 39px;
+    }
+    .simple-left img{
+        float: left;
+    width: 32%;
+    top: 13px;
+    position: relative;
+    }
+    .simple-left p {
+        float: left;
+        margin-top: -142px;
+        font-size: 15px;
+        position: relative;
+    }
+    .simple-left button {
+        float: left;
+        margin-top: -62px;
+        width: 61px;
+        height: 19px;
+        font-size: 8px;
+        position: relative;
+    }
+    .simple-right {
+        margin-top: -98px;
+        margin-top: -128px;
+        /* padding: 10px 0px 0px 56px; */
+    }
+    .simple-right h4{
+        float: left;
+        font-size: 10px;
+    }
+    .test{
+        margin-left: 81px;
+        font-size: 9px;
+    }
+    .testone{
+        margin-left: 54px;  
+        font-size: 9px;
+    }
+    .testtwo {
+        margin-left: 119px;
+        font-size: 9px;
+    }
+    progress{
+        float: left;
+        width: 242px;
+    }
+    .taste{
+        float: left;
+    } 
+    .taste h4{
+        font-size: 19px;
+    text-align: center;
+    }
+    .cont-one .ava-img{
+        width: 130px;
+    }
+    .cont-one h5 {
+        top: -54px;
+    }
+    .cont-two .ava-img{
+        width: 130px;
+    }
+    .cont-two h5 {
+        top: -33px;
+    }
+    .cont-three {
+
+    }
+    .cont-three .ava-img{
+        width: 130px;
+    }
+    .cont-three h5 {
+        top: -33px;
+    }
+    .content-one .ava-img{
+        width: 164px;
+    }
+    .content-one h5 {
+        top: -17px;
+    }
+    .content-two .ava-img{
+        width: 130px;
+    }
+    .content-two h5 {
+        top: -29px;
+    }
+    .content-three{
+
+    }
+    .content-three img{
+        width: 135px;
+        height: 92px;
+    }
+    .content-three h5 {
+        top: -20px;
+    margin-left: 47px;
+    }
+    .taste p{
+        font-size: 14px;
+    margin-top: -13px;
+    }
+    .use{
+        float: left;
+        margin-left: 79px;
+    }
+    .footer{
+        height: 200px;
+    }
+    .footer-left h4{
+        padding-left: 84px;
+        padding-top: 6px;
+    }
+    .footer-left P{
+        font-size: 14px;
+    padding-left: 89px;
+    margin-top: -42px;
+    }
+    .footer-left h3{
+        position: relative;
+        top: -25px;
+        padding-left: 90px;
+    }
+    .test-test .imgone{
+        width: 9%;
+    }
+    .test-test .imgtwo{
+        width: 9%;
+        margin-left: -12px;
+    }
+    .test-test .imgthree{
+        width: 9%;
+        margin-left: -16px;
+    }
+    .test-test .imgfour{
+        width: 9%;
+        margin-left: -13px;
+    }
+    .footer-center{
+        margin-top: 5%;
+        position: relative;
+        left: 268px;
+    }
+    .footer-center h4{
+        font-size: 11px;
+        margin-left: -16px;
+        padding-left: 10px;
+        position: absolute;
+        margin-top: -18px;
+    }
+    .footer-center .test-one{
+        float: left;
+        width: 22%;
+        margin-left: -68px;
+        margin-top: -5px;
+    }
+    .footer-center .test-two{
+        width: 22%;
+        margin-left: -189px;
+        margin-top: 73px;
+    }
+    .footer-center .test-three{
+        float: left;
+    font-size: 9px;
+    margin-top: 50px;
+    margin-left: -31px;
+    margin-right: -81px;
+    }
+    .footer-center .test-four{
+        float: left;
+        top: -63px;
+        font-size: 9px;
+        margin-top: 28px;
+        margin-right: -83px;
+        margin-left: -35px;
+    }
+    .footer-right {
+        float: left;
+        margin-top: 23%;
+        width: 100%;
+    }
+    .footer-right h4{
+        font-size: 11px;
+    position: relative;
+    margin-left: 63%;
+    margin-top: -207px;
+    }
+    form{
+        margin-top: -9px;
+        position: absolute;
+        margin-left: 36%;
+    }
+    input{
+        width: 46%;
+    }
+    .line{
+        position: relative;
+        top: 20px;
+        left: 372px;
+        width: 24%;
+    }
+    .footer-right h5{
+        float: left;
+        font-size: 11px;
+        left: 225px;
+        position: relative;
+        margin-top: 56px;
+    }
+    .mob {
+        position: relative;
+        font-size: 10px;
+        right: -6px;
+    }
+}
+@media only screen and (min-width: 1025px) and (max-width: 1200px)
+{
+    .header{
+        float: left;
+        height: 312px;
+    }
+    .nav{
+        float: left;
+        word-spacing: 52px;
+        font-size: 10px;
+        margin-left: 132px;
+        line-height: 31px;  
+    }
+    .avatar{
+        text-align: center;
+        margin-top: 4%;
+        width: 100%;
+        margin-left: 0px;
+    }
+    .banner p{
+        font-size: 24px;
+        top: 130px;
+        margin-left: 420px;
+    }
+    .banner label{
+        font-size: 25px;
+        top: 184px;
+        margin-left: 33px;
+    }
+    .banner img{
+        margin-right: 43px;
+        height: 173px;
+        top: 75px;
+        width: 229px;
+    }
+    .delicious h3{
+        font-size: 16px;
+    }
+    .delicious P{
+        font-size: 9px;
+        margin-top: -9px;
+        margin-left: 37px;
+    }
+    .avatar-img .ava-img {
+        margin-right: 24px;
+    }
+    .con-one h5 {
+        margin-right: 0px;
+    }
+    .con-two h5 {
+        margin-right: 0px;
+    }
+    .con-three h5 {
+        margin-right: 0px;
+    }
+    .three{
+        float: left;
+    }
+    .simple-delicious{
+        float: left;
+        height: 266px;
+    }
+    .simple-left {
+        float: left;
+        width: 100%;
+    }
+    .simple-left h3{
+        float: left;
+        font-size: 20px;
+        padding-left: 20px;
+        position: relative;
+        margin-right: 39px;
+    }
+    .simple-left img{
+        float: left;
+    width: 32%;
+    top: 13px;
+    position: relative;
+    }
+    .simple-left p {
+        float: left;
+        margin-top: -81px;
+        font-size: 15px;
+        position: relative;
+    }
+    .simple-left button {
+        float: left;
+        margin-top: -15px;
+        width: 61px;
+        height: 19px;
+        font-size: 8px;
+        position: relative;
+    }
+    .simple-right {
+        margin-top: -98px;
+        margin-top: -128px;
+        /* padding: 10px 0px 0px 56px; */
+    }
+    .simple-right h4{
+        float: left;
+        font-size: 10px;
+    }
+    .test{
+        margin-left: 81px;
+        font-size: 9px;
+    }
+    .testone{
+        margin-left: 54px;  
+        font-size: 9px;
+    }
+    .testtwo {
+        margin-left: 119px;
+        font-size: 9px;
+    }
+    progress{
+        float: left;
+        width: 242px;
+    }
+    .taste{
+        float: left;
+    } 
+    .taste h4{
+        font-size: 19px;
+    text-align: center;
+    }
+    .cont-one .ava-img{
+        width: 130px;
+    }
+    .cont-one h5 {
+        top: -54px;
+    }
+    .cont-two .ava-img{
+        width: 130px;
+    }
+    .cont-two h5 {
+        top: -33px;
+    }
+    .cont-three {
+
+    }
+    .cont-three .ava-img{
+        width: 130px;
+    }
+    .cont-three h5 {
+        top: -33px;
+    }
+    .content-one .ava-img{
+        width: 164px;
+    }
+    .content-one h5 {
+        top: -17px;
+    }
+    .content-two .ava-img{
+        width: 130px;
+    }
+    .content-two h5 {
+        top: -29px;
+    }
+    .content-three img{
+        width: 135px;
+        height: 92px;
+    }
+    .content-three h5 {
+        top: -20px;
+    margin-left: 47px;
+    }
+    .taste p{
+        font-size: 14px;
+    margin-top: -13px;
+    }
+    .use{
+        float: left;
+        margin-left: 79px;
+    }
+    .footer{
+    }
+    .footer-left h4{
+        padding-left: 84px;
+        padding-top: 6px;
+    }
+    .footer-left P{
+        font-size: 14px;
+    padding-left: 89px;
+    margin-top: -42px;
+    }
+    .footer-left h3{
+        position: relative;
+        top: -25px;
+        padding-left: 90px;
+    }
+    .test-test .imgone{
+        width: 9%;
+    }
+    .test-test .imgtwo{
+        width: 9%;
+        margin-left: -12px;
+    }
+    .test-test .imgthree{
+        width: 9%;
+        margin-left: -16px;
+    }
+    .test-test .imgfour{
+        width: 9%;
+        margin-left: -13px;
+    }
+    .footer-center{
+        margin-top: 5%;
+        position: relative;
+        left: 268px;
+    }
+    .footer-center h4{
+        font-size: 11px;
+        margin-left: -16px;
+        padding-left: 10px;
+        position: absolute;
+        margin-top: -18px;
+    }
+    .footer-center .test-one{
+        float: left;
+        width: 22%;
+        margin-left: -68px;
+        margin-top: -5px;
+    }
+    .footer-center .test-two{
+        width: 22%;
+        margin-left: -189px;
+        margin-top: 73px;
+    }
+    .footer-center .test-three{
+        float: left;
+    font-size: 9px;
+    margin-top: 50px;
+    margin-left: -31px;
+    margin-right: -81px;
+    }
+    .footer-center .test-four{
+        float: left;
+        top: -63px;
+        font-size: 9px;
+        margin-top: 28px;
+        margin-right: -83px;
+        margin-left: -35px;
+    }
+    .footer-right {
+        float: left;
+        margin-top: 23%;
+        width: 100%;
+    }
+    .footer-right h4{
+        font-size: 11px;
+        position: relative;
+        top: -145%;
+        margin-left: 63%;
+    }
+    form{
+        position: absolute;
+    margin-left: 36%;
+    }
+    input{
+        width: 46%;
+    }
+    .line{
+        position: relative;
+        top: 20px;
+        left: -86px;
+        width: 53%;
+    }
+    .footer-right h5{
+       font-size: 11px;
+    position: relative;
+    top: -328%;
+    margin-left: 63%;
+    }
+    .mob {
+        position: relative;
+        font-size: 10px;
+        right: -6px;
+    }
+}
